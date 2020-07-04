@@ -32,6 +32,7 @@ An analysis about different potentials (prior potential, smoothness potential, a
 
 
 ## Notes
-1. The version of CAM using the spatial fusion weight (CAM_spatial) only supports batch_size_per_GPU == 1 in the current implementation. 
+1. The version of CAM using the spatial fusion weight (CAM_spatial.py) only supports batch_size_per_GPU == 1 in the current implementation.
+Versions using scalar weight and categorical weights do not have such constraints. 
 2. Current implementation works for 3D data only, while the method should also work for 2D data. 
 3. The implementation is purly based on Pytorch without any other dependency.  
