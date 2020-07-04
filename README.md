@@ -9,7 +9,7 @@ The coinstraint boosts ConvNets for: (1) higher accuracy by reducing anatomical 
 ### 1. Atlas priors generation 
 The method alleviates an atlas pair as the prior, which contains an atlas scan and a probablistic atlas label. 
 The atlas pair can be derived from all avaiable annotations by registering/aligning to a common space, and summerizing with label fusion. 
-We provide two example atlas priors, one from MICCAI2012 training dataset, and the other from IBSR training dataset. 
+We provide two examples of atlas pair, one from MICCAI2012 training dataset, and the other from IBSR training dataset. 
 We applied syn registration for fine aligment, and simple averaging for summerization. 
 
 <b>IBSR:</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Download Link](https://drive.google.com/drive/folders/1MXm4K3tpsk1yWZjyDkL8caZ-QEmDoJHI?usp=sharing)<br/>
