@@ -12,8 +12,8 @@ The atlas pair can be derived from all avaiable annotations by registering/align
 We provide two examples of atlas pair, one from MICCAI2012 training dataset, and the other from IBSR training dataset. 
 We applied syn registration for fine aligment, and simple averaging for summerization. 
 
-<b>IBSR:</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Download Link](https://drive.google.com/drive/folders/1MXm4K3tpsk1yWZjyDkL8caZ-QEmDoJHI?usp=sharing)<br/>
-<b>MICCAI2012:</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Download Link](https://drive.google.com/drive/folders/1PL3c_dPLe5VqPo6r5Ej6nnGeMYgpiFDG?usp=sharing)<br/>
+<b>IBSR:</b> [Download Link](https://drive.google.com/drive/folders/1MXm4K3tpsk1yWZjyDkL8caZ-QEmDoJHI?usp=sharing)<br/>
+<b>MICCAI2012:</b>& [Download Link](https://drive.google.com/drive/folders/1PL3c_dPLe5VqPo6r5Ej6nnGeMYgpiFDG?usp=sharing)<br/>
 
 
 ### 2. Backbone ConvNet
