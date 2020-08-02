@@ -1,4 +1,4 @@
-# Constraint Adoption Module (CAM) for incoperating ConvNets with Atlas Constraints
+# Constraint Adoption Module (CAM) for incorporating ConvNets with Atlas Constraints
 ![Ovreall Arthetecture](arthetecture.png)
 
 This repository contains Pytorch code for CAM: a method for incoperating ConvNets with atlas constraints for accurate and robust anatomical segmentation.  
